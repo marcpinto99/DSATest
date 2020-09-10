@@ -1,0 +1,19 @@
+{
+    "hosts": {
+        "alpha": {
+            "udp_start_port": 15000,
+            "udp_end_port": 15001,
+            "ip_address": "172.17.0.2"
+        },
+        "beta": {
+            "udp_start_port": 25000,
+            "udp_end_port": 25001,
+            "ip_address": "172.17.0.3"
+        },
+        "gamma": {
+            "udp_start_port": 35000,
+            "udp_end_port": 35001,
+            "ip_address": "172.17.0.4"
+        }
+    }
+}
